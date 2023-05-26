@@ -1,0 +1,67 @@
+#perfil {
+    background-image: url("../img/perfil.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-blend-mode: multiply;
+    background-position-x: 25%;
+    background-color: rgb(71, 79, 85);
+}
+
+#Portafolio .image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#Portafolio {
+    background-color: rgb(54, 60, 63);
+}
+
+.unilogo {
+    height: 50%;
+    width: 25%;
+}
+
+.greystone {
+    height: 50%;
+    width: 25%;
+}
+
+.desafiolatam {
+    height: 50%;
+    width: 40%;
+}
+
+.freshprep{
+    padding-left: 3rem;
+}
+
+.bchousing{
+    padding-left: 2rem;
+}
+
+.amazondsp{
+    padding-right: 1rem;
+}
+
+.hotelce{
+    padding-left: 1rem;
+}
+
+.talentpro{
+    padding-right: 1rem;
+}
+
+.tarapaca{
+    padding-left: 2rem;
+}
+
+footer{
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-blend-mode: multiply;
+    background-position-x: 25%;
+    background-color: rgb(71, 79, 85);
+}
+
