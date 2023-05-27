@@ -1,7 +1,7 @@
 # sovalle93.github.io
 
 Commit aceptados
-  - Renato Baeza
+  - Renato Baez
   - Rodrigo Marey
   - Jorge Lopez 
 
