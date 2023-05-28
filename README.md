@@ -4,6 +4,7 @@ Commit aceptados
   - Renato Baez
   - Rodrigo Marey
   - Jorge Lopez 
+  - Ricardo Moena
 
 Forks
   - Rodrigo Marey
